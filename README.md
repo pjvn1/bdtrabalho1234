@@ -1,1 +1,1 @@
-"# bdtrabalho1234" 
+o angular app main é o front, deve ser rodado no terminal.
